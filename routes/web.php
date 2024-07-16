@@ -17,3 +17,7 @@ Route::get('/kontak', function () {
 Route::get('/produk', function () {
     return view('produk');
 });
+
+Route::get('/oengalaman-projek', function () {
+    return view('pengalaman-projek');
+});
