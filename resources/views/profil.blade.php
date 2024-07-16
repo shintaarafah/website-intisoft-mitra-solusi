@@ -5,9 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <img src="" class="rounded float-start" alt="Cinque Terre" width="300" height="400">
+    <div class="banner-card">
+        <img src="/img/bg-profil.png">
+        <div class="banner-text">
+        <p>
+           hallo
+        </p>
+        </div>
 
+    </div>
 </body>
 </html>
