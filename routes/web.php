@@ -18,6 +18,6 @@ Route::get('/produk', function () {
     return view('produk');
 });
 
-Route::get('/oengalaman-projek', function () {
+Route::get('/pengalaman-projek', function () {
     return view('pengalaman-projek');
 });
