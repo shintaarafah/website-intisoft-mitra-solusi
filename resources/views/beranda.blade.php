@@ -62,7 +62,7 @@
 
 
     <!-- Awal Footer -->
-    <footer class="container py-3"><footer>
+    <footer class="container py-4">
         <div class="container">
             <div class="row justify-content-center border-bottom p-3">
                 <div class="col-lg-4 text-start col-sm-12 col-md-4 mb-3">
