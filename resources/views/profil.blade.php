@@ -8,12 +8,14 @@
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <div class="banner-card">
-        <img src="/img/bg-profil.png">
+    <section class="profil-banner">
+        <div class="banner-card">
+            <img src="/img/bg-profil.png">
+        </div>
         <div class="banner-text">
-        <p>
-           hallo
-        </p>
+            <p>
+            hallo
+            </p>
         </div>
 
     </div>
