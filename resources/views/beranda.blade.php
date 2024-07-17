@@ -33,8 +33,11 @@
                 <li class="nav-item"><a href="#" class="nav-link">Kontak</a></li>
             </ul>
         </header>
-    </div>    
+    </div>
     <!-- Akhir Header -->
+<<<<<<< HEAD
+
+=======
     
     <!-- Awal Konten -->
     <!-- Awal Section Banner -->
@@ -107,6 +110,7 @@
             <div class="card"><img src="/img/bank-lampung.png" alt="Bank Woori Saudara"></div>
         </div>
     </section>
+>>>>>>> ba3bc3ba86d8f94107b1016f098665b7e1ca7267
 
 
     <!-- Akhir Section Kustomer -->
@@ -145,5 +149,6 @@
         </div>
     </footer>
     <!-- Akhir Footer -->
+
 </body>
 </html>
