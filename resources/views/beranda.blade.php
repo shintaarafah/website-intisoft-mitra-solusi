@@ -32,9 +32,9 @@
                 <li class="nav-item"><a href="#" class="nav-link">Kontak</a></li>
             </ul>
         </header>
-    </div>    
+    </div>
     <!-- Akhir Header -->
-    
+
 
 
 
@@ -106,5 +106,6 @@
         </div>
     </footer>
     <!-- Akhir Footer -->
+
 </body>
 </html>
