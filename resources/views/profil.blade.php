@@ -9,6 +9,19 @@
     <link rel="stylesheet" href="/css/style.css">
     <title>Profil</title>
 </head>
+<<<<<<< HEAD
+=======
+<body>
+    <section class="profil-banner">
+        <div class="banner-card">
+            <img src="/img/bg-profil.png">
+        </div>
+        <div class="banner-text">
+            <p>
+            hallo
+            </p>
+        </div>
+>>>>>>> ba3bc3ba86d8f94107b1016f098665b7e1ca7267
 
 <body>
     <!-- Awal Header  -->

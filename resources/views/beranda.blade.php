@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Link Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Link CSS -->
+    <link rel="stylesheet" href="/css/style.css">
 
     <title>Beranda</title>
 </head>
@@ -34,74 +35,116 @@
         </header>
     </div>
     <!-- Akhir Header -->
+<<<<<<< HEAD
+
+=======
+    
+    <!-- Awal Konten -->
+    <!-- Awal Section Banner -->
+    <section class="banner-home" id="banner-home">
+        <div class="banner-content">
+            <img src="/img/banner-beranda.png" alt="..." width="100%">
+            <div class="banner-text">
+                <h1 style="color: #0231D0">Solusi Terdepan untuk</h1>
+                <h1> Dunia Digital </h1>
+                <p style="color: #2C9760">Mengembangkan software custom yang dirancang khusus untuk bisnis Anda</p>
+            </div>
+        </div>
+    </section>
+    <!-- Akhir Section Banner -->
+
+    <!-- Awal Section Company -->
+    <section class="company">
+        <div class="company-content">
+            <h3 class="company-title">Perusahaan Kami</h3>
+            <p>
+                PT Intisoft Mitra Solusi (Intisoft) adalah perusahaan yang mengkhususkan bisnis dalam bidang implementasi dan pengembangan software aplikasi.
+            </p>
+        </div>
+    </section>
+    <!-- Akhir Section Company -->
+
+    <!-- Awal Section Job -->
+    <section class="job">
+    <h3 class="job-title text-center" style="margin-bottom: 40px;">Apa yang Kami Lakukan?</h3>
+        <div class="job-content">
+            <div class="job-card">
+                <div class="card">
+                    <img src="/img/card-1.png" alt="Logo 1">
+                    <p>Membangun Program Aplikasi</p>
+                </div>
+                <div class="card">
+                    <img src="/img/card-2.png" alt="Logo 2">
+                    <p>Implementasi Program Aplikasi</p>
+                </div>
+                <div class="card">
+                    <img src="/img/card-3.png" alt="Logo 3">
+                    <p>Layanan Konsultan IT</p>
+                </div>
+                <div class="card">
+                    <img src="/img/card-4.png" alt="Logo 4">
+                    <p>Joint Development</p>
+                </div> 
+            </div>
+        </div>
+    </section>
+    <!-- Akhir Section Job -->
+
+    <!-- Awal Section Kustomer -->
+    <section class="customer">
+        <h3 class="text-center" style="margin-top: 40px;"> Pelanggan </h3>
+        <div class="customer-card">
+            <div class="card"><img src="/img/bank-riaukepri.png" alt="Bank Riau Kepri"></div>
+            <div class="card"><img src="/img/bank-btpn.png" alt="Bank BTPN"></div>
+            <div class="card"><img src="/img/mnc-bank.png" alt="MNC Bank"></div>
+            <div class="card"><img src="/img/bws.png" alt="Bank Woori Saudara"></div>
+            <div class="card"><img src="/img/bank-hik-parahyangan.png" alt="BPR Syariah HIK Parahyangan"></div>
+            <div class="card"><img src="/img/bank-syariah-hik.png" alt="BPR Syariah HIK"></div>
+            <div class="card"><img src="/img/bank-kalsel.png" alt="Bank Kalsel"></div>
+            <div class="card"><img src="/img/bank-dki.png" alt="Bank DKI"></div>
+            <div class="card"><img src="/img/bank-bumiputera.png" alt="Bank Bumiputera"></div>
+            <div class="card"><img src="/img/bank-bumiputera.png" alt="Bank Bumiputera"></div>
+            <!-- <div class="card"><img src="/img/askrindo.png" alt="Bank Riau Kepri"></div> -->
+            <div class="card"><img src="/img/smf.png" alt="Bank BTPN"></div>
+            <div class="card"><img src="/img/bank-eksekutif-internasional.png" alt="MNC Bank"></div>
+            <div class="card"><img src="/img/bank-lampung.png" alt="Bank Woori Saudara"></div>
+        </div>
+    </section>
+>>>>>>> ba3bc3ba86d8f94107b1016f098665b7e1ca7267
 
 
+    <!-- Akhir Section Kustomer -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <!-- Akhir Konten -->
+    
     <!-- Awal Footer -->
     <footer class="container py-4">
         <div class="container">
             <div class="row justify-content-center border-bottom p-3">
                 <div class="col-lg-4 text-start col-sm-12 col-md-4 mb-3">
-                    <h1 class="text-center">NeedSkincareID</h1>
-                    <p>Gang Sadar 2 Kavling AL NO A13 RT 001 RW 002, Kec Jatisampurna Kel Jatiraden Kota Bekasi, Jawa
-                        Barat 17436</p>
+                    <img src="/img/logo-intisoft.png" alt="Logo" width="110" height="60">
+                    <p>Menara Rajawali Level 7-1 Kawasan Mega Kuningan Timur, Kecamatan Setiabudi Jakarta Selatan 12950</p>
                 </div>
 
                 <div class="col-lg-4 text-center col-sm-12 col-md-4 mb-3">
-                    <h1>Kontak Kami</h1>
-                    <a href="https://wa.me/6281317867755" class="footer-link">
-                        <img src="../static/img/whatsapp.svg" alt="WhatsApp">
-                        <p>+6281317867755</p>
+                    <h3>Kontak</h3>
+                    <a href="https://www.facebook.com/akun_facebook" target="_blank" class="social-link">
+                        <img src="/img/whatsapp.png" alt="" class="width: 50px; height: 20px;" >
+                    </a>
+                    <a href="https://www.twitter.com/akun_twitter" target="_blank" class="social-link">
+                        <img src="/img/telpon.png" alt="">
+                    </a>
+                    <a href="https://www.instagram.com/akun_instagram" target="_blank" class="social-link">
+                        <img src="/img/email.png" alt="">
                     </a>
                 </div>
 
-                <div class="col-lg-4 text-start col-sm-12 col-md-4">
-                    <h1 class="text-center">Sosial Media</h1>
-                    <div class="social-media-links">
-                        <a href="https://www.instagram.com/needskincareid/?utm_source=ig_web_button_share_sheet"
-                            class="footer-link">
-                            <img src="../static/img/instagram.svg" alt="Instagram">
-                            <p>@needskincareid</p>
-                        </a>
-                        <a href="https://www.tiktok.com/@needskincareid?is_from_webapp=1&sender_device=pc"
-                            class="footer-link">
-                            <img src="../static/img/tiktok.svg" alt="TikTok">
-                            <p>@needskincareid</p>
-                        </a>
-                        <a href="https://shopee.co.id/needskincareid" class="footer-link">
-                            <img src="../static/img/bag-plus.svg" alt="Bag">
-                            <p>needskincareid</p>
-                        </a>
-                    </div>
-                </div>
+        
             </div>
 
-            <div class="text-center p-3">
-                <p class="fs-6">Copyright © 2024 Kingston, Inc</p>
+            <div class="row justify-content-center border-bottom p-3 text-center p-3" style="background-color: #0231D0;">
+                <p class="fs-6 text-white">Copyright © 2024 by Intisoft Mitra Solusi</p>
             </div>
         </div>
     </footer>
