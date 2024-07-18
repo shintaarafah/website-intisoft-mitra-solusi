@@ -13,31 +13,34 @@
 </head>
 <body>
     <!-- Awal Header  -->
+    <header class="p-3 mb-3">
     <div class="container">
-        <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-            <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
-                <img src="/img/logo-intisoft.png" alt="Logo" width="110" height="60">
-            </a>
-            <ul class="nav nav-pills">
-                <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Beranda</a></li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Portofolio
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#pengalamanprojek">Pengalaman Projek</a></li>
-                        <li><a class="dropdown-item" href="#produk">Produk</a></li>
-                    </ul>
-                </li>
-                <li class="nav-item"><a href="#" class="nav-link">Profil</a></li>
-                <li class="nav-item"><a href="#" class="nav-link">Kontak</a></li>
-            </ul>
-        </header>
+        <div class="row align-items-center">
+            <div class="col-4 d-flex justify-content-start">
+                <a href="/" class="">
+                    <img src="/img/logo-intisoft.png" alt="" style="width: 50%;">
+                </a>
+            </div>
+            <div class="col-8 d-flex justify-content-end">
+                <ul class="nav mb-2 mb-md-0">
+                    <li><a href="/" class="nav-link px-2 link-secondary fw-bold">Beranda</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle fw-bold" href="#" id="portfolioDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Portofolio
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="portfolioDropdown">
+                            <li><a class="dropdown-item" href="/pengalamanprojek">Pengalaman Projek</a></li>
+                            <li><a class="dropdown-item" href="/produk">Produk</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/profil" class="nav-link px-2 link-dark fw-bold">Profil</a></li>
+                    <li><a href="/kontak" class="nav-link px-2 link-dark fw-bold">Kontak</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
+</header>
     <!-- Akhir Header -->
-<<<<<<< HEAD
-
-=======
     
     <!-- Awal Konten -->
     <!-- Awal Section Banner -->
@@ -110,9 +113,6 @@
             <div class="card"><img src="/img/bank-lampung.png" alt="Bank Woori Saudara"></div>
         </div>
     </section>
->>>>>>> ba3bc3ba86d8f94107b1016f098665b7e1ca7267
-
-
     <!-- Akhir Section Kustomer -->
 
 
@@ -129,18 +129,16 @@
 
                 <div class="col-lg-4 text-center col-sm-12 col-md-3 mb-2">
                     <h4>Kontak</h4>
-                    <a href="https://www.facebook.com/akun_facebook" target="_blank" class="social-link">
+                    <a href="https://wa.me/6287876876417" target="_blank" class="social-link">
                         <img src="/img/whatsapp.png" alt="" class="width: 50px; height: 20px;" >
                     </a>
                     <a href="https://www.twitter.com/akun_twitter" target="_blank" class="social-link">
                         <img src="/img/telpon.png" alt="">
                     </a>
-                    <a href="https://www.instagram.com/akun_instagram" target="_blank" class="social-link">
+                    <a href="mailto:info@intisoft-solusi.com" target="_blank" class="social-link">
                         <img src="/img/email.png" alt="">
                     </a>
                 </div>
-
-        
             </div>
 
             <div class="row justify-content-center border-bottom p-3 text-center p-3" style="background-color: #0231D0;">
