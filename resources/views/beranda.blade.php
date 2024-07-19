@@ -141,7 +141,7 @@
                 </div>
             </div>
 
-            <div class="row justify-content-center border-bottom p-3 text-center p-3" style="background-color: #0231D0;">
+            <div class="row justify-content-center border-bottom p-3 mb-3 text-center p-3" style="background-color: #0231D0; width: 100%;">
                 <p class="fs-6 text-white">Copyright © 2024 by Intisoft Mitra Solusi</p>
             </div>
         </div>
