@@ -112,12 +112,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10px; /* Tambahkan padding jika diperlukan */
+    padding: 5px; /* Tambahkan padding jika diperlukan */
 }
 
 .customer-card img {
-    width: 80%;
-    max-height: 100%; /* Atur tinggi maksimal gambar agar tidak meluap dari kartu */
+    width: 100%; /* Ensure the image width fits the card */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
 }
 
 /* Awal Profil */
@@ -241,7 +242,6 @@
     }
 
 
-<<<<<<< HEAD
 /* Pengalaman Projek */
 /* Section Card Pengalaman Proyek */
 .carousel-project {
@@ -250,10 +250,6 @@
     width: 100%;
     overflow: hidden;
 }
-=======
-
-/* Produk List */
->>>>>>> c56c194a14ee4689f4558618954a8a899c43040c
 
 .carousel-content {
     margin: 40px;
@@ -261,7 +257,6 @@
     transition: transform 0.5s ease-in-out;
 }
 
-<<<<<<< HEAD
 .carousel-content .card {
     margin: 0 10px;
     flex-shrink: 0;
@@ -322,7 +317,8 @@
 .atm-configuration{
     background-color: #E9F6EF;
 }
-=======
+
+/* Produk */
 .container-produk .pc-tittle p{
     font-size: 20px;
     margin: 0 auto;
@@ -374,8 +370,7 @@
     width: 150px;
     border-radius: 5px;
     color: white;
-    margin-bottom: 25px
+    margin-bottom: 25px;
+    padding: 5px;
 
 }
-
->>>>>>> c56c194a14ee4689f4558618954a8a899c43040c
