@@ -2,6 +2,13 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
+/* Footer */
+
+.row .justify-content-center {
+    margin-top: 1000px;
+}
+
 /* Home*/
 /* Section Banner */
 .banner-home{
@@ -241,7 +248,6 @@
     }
 
 
-<<<<<<< HEAD
 /* Pengalaman Projek */
 /* Section Card Pengalaman Proyek */
 .carousel-project {
@@ -250,10 +256,8 @@
     width: 100%;
     overflow: hidden;
 }
-=======
 
 /* Produk List */
->>>>>>> c56c194a14ee4689f4558618954a8a899c43040c
 
 .carousel-content {
     margin: 40px;
@@ -261,7 +265,6 @@
     transition: transform 0.5s ease-in-out;
 }
 
-<<<<<<< HEAD
 .carousel-content .card {
     margin: 0 10px;
     flex-shrink: 0;
@@ -322,13 +325,16 @@
 .atm-configuration{
     background-color: #E9F6EF;
 }
-=======
+/* Produk */
 .container-produk .pc-tittle p{
-    font-size: 20px;
+    font-size: 28px;
+    font-weight: bold;
     margin: 0 auto;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 10px;
 }
+
 
 .produk-card {
     display: flex;
@@ -340,14 +346,13 @@
 
 .produk-card .card {
     padding-top: 20px;
+    margin-bottom: 20px;
     background-color: #fff;
     border: none;
     border-radius: 10px;
     text-align: center;
     display: flex;
     justify-content: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
     flex-direction: column;
     align-items: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Tambahkan transisi untuk efek halus */
@@ -367,17 +372,29 @@
 }
 .produk-card .card p {
     font-size: 14px;
-    margin: 0 auto;
     background-color: #0231D0;
-    height: 25px;
-    width: 150px;
+    height: 35px;
+    width: 170px;
     border-radius: 5px;
     color: white;
-    margin-bottom: 25px
-
+    text-align: center;
+    align-items: center;
+    padding: 5px;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> c56c194a14ee4689f4558618954a8a899c43040c
->>>>>>> be0b34799792e067ca7941c2e6916b9a064bc2e0
+.container-bn img{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    padding: 30px;
+    margin-top: -50px ;
+}
+
+.container-bn {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+    position: relative;
+}

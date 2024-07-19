@@ -41,7 +41,7 @@
     </div>
 </header>
     <!-- Akhir Header -->
-    
+
     <!-- Awal Konten -->
     <!-- Awal Section Banner -->
     <section class="banner-home" id="banner-home">
@@ -87,7 +87,7 @@
                 <div class="card">
                     <img src="/img/card-4.png" alt="Logo 4">
                     <p>Joint Development</p>
-                </div> 
+                </div>
             </div>
         </div>
     </section>
@@ -117,7 +117,7 @@
 
 
     <!-- Akhir Konten -->
-    
+
     <!-- Awal Footer -->
     <footer class="container py-4">
         <div class="container">
@@ -141,9 +141,9 @@
                 </div>
             </div>
 
-            <div class="row justify-content-center border-bottom p-3 mb-3 text-center p-3" style="background-color: #0231D0; width: 100%;">
+            {{-- <div class="row justify-content-center border-bottom p-3 mb-3 text-center p-3" style="background-color: #0231D0; width: 100;">
                 <p class="fs-6 text-white">Copyright © 2024 by Intisoft Mitra Solusi</p>
-            </div>
+            </div> --}}
         </div>
     </footer>
     <!-- Akhir Footer -->
