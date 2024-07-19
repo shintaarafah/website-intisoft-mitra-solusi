@@ -43,29 +43,42 @@
 </header>
     <!-- Akhir Header -->
 
-    <div class="container-produk">
-        <h2> Produk List</h2>
-        <hr>
-    </div>
-
-    <div class="card-produk">
-        <div class="card">
-            <img src="/img/dg-elos.jpg" >
-            <div class="card-content">
-                <p class="card-description">Elos - Digital Lending</p>
+<body>
+    <!-- Awal Section Produk -->
+    <section class="container-produk">
+        <div class="produk-content">
+            <div class="pc-tittle">
+                <p>Produk</p>
+            </div>
+            <div class="produk-card">
+                <div class="card">
+                    <img src="/img/dg-elos.jpg" alt="gambar elos digital">
+                    <p>Elos-Digital Lending</p>
+                </div>
+                <div class="card">
+                    <img src="/img/dg-eform.jpg" alt="gambar gital e-form">
+                    <p>E-form Digital</p>
+                </div>
+                <div class="card">
+                    <img src="/img/mob-apps.jpg" alt="gambar gital e-form">
+                    <p>Mobile Apps</p>
+                </div>
+                <div class="card">
+                    <img src="/img/dc-koperasi.png" alt="gambar elos digital">
+                    <p>Digital Core dan Koperasi</p>
+                </div>
+                <div class="card">
+                    <img src="/img/atm-crm.png" alt="gambar elos digital">
+                    <p>Digital Core dan Koperasi</p>
+                </div>
             </div>
         </div>
-    </div>
-
-    <div class="card-produk">
-        <div class="card">
-            <img src="/img/dg-eform.jpg" >
-            <div class="card-content">
-                <p class="card-description"> Elos – EFORM </p>
-            </div>
-        </div>
-    </div>
+    </section>
 
 
+    <!-- Akhir Section Produk -->
+
+
+</body>
 
 </html>
