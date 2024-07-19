@@ -48,7 +48,7 @@
     <section class="container-produk">
         <div class="produk-content">
             <div class="pc-tittle">
-                <p>Produk</p>
+                <p>Produk List</p>
             </div>
             <div class="produk-card">
                 <div class="card">
@@ -57,11 +57,15 @@
                 </div>
                 <div class="card">
                     <img src="/img/dg-eform.jpg" alt="gambar gital e-form">
-                    <p>E-form Digital</p>
+                    <p class="text-center">E-form Digital</p>
                 </div>
                 <div class="card">
                     <img src="/img/mob-apps.jpg" alt="gambar gital e-form">
                     <p>Mobile Apps</p>
+                </div>
+                <div class="card">
+                    <img src="/img/md-service.png" alt="gambar gital e-form">
+                    <p>Middleware Service</p>
                 </div>
                 <div class="card">
                     <img src="/img/dc-koperasi.png" alt="gambar elos digital">
@@ -75,7 +79,14 @@
         </div>
     </section>
 
-
+    <section class="container-bn">
+        <div class="bn-produk">
+            <img src="/img/bn-eform.png" alt="banner-eform">
+        </div>
+        <div class="bn-produk">
+            <img src="/img/bn-elos.png" alt="banner-eform" style="padding: 5px">
+        </div>
+    </section>
     <!-- Akhir Section Produk -->
 
 
