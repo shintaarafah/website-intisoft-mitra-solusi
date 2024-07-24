@@ -398,3 +398,17 @@
     align-items: center;
     position: relative;
 }
+
+
+/* Footer */
+.footer {
+    background-color: #0231D0;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    color: #fff;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+

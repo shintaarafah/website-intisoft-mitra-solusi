@@ -119,7 +119,7 @@
     <!-- Akhir Konten -->
 
     <!-- Awal Footer -->
-    <footer class="container py-4">
+    {{-- <footer class="container py-4">
         <div class="container">
             <div class="row justify-content-center border-bottom p-3">
                 <div class="col-lg-4 text-start col-sm-12 col-md-4 mb-3">
@@ -139,11 +139,17 @@
                         <img src="/img/email.png" alt="">
                     </a>
                 </div>
-            </div>
+            </div> --}}
 
             {{-- <div class="row justify-content-center border-bottom p-3 mb-3 text-center p-3" style="background-color: #0231D0; width: 100;">
                 <p class="fs-6 text-white">Copyright © 2024 by Intisoft Mitra Solusi</p>
             </div> --}}
+
+            <footer>
+                <div class="footer">
+                    <p> Copyright © 2024 by Intisoft Mitra Solusi</p>
+                </div>
+            </footer>
         </div>
     </footer>
     <!-- Akhir Footer -->
