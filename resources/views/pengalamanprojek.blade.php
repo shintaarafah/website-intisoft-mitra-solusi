@@ -86,140 +86,140 @@
             <h3 class="fw-bold text-center" style="padding-top: 30px; color: black">Pengalaman Proyek</h3>
             <div class="carousel-content">
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bws.png" class="card-img-top" alt="..." >
+                    <img src="/img/bws.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2022</h5>
                             <p class="card-text">Pengembangan Aplikasi Manajemen Asuransi</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-dki.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-dki.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2021</h5>
                             <p class="card-text">Pengembangan Aplikasi ELOS KPR untuk Program FLPP & DP 0 Rupiah</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/mnc-bank.png" class="card-img-top" alt="..." >
+                    <img src="/img/mnc-bank.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2019</h5>
                             <p class="card-text">Joint Financing Leasing System for Corporate</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-dki.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-dki.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2018</h5>
                             <p class="card-text">Implementasi Aplikasi E-FORM KreditMultiguna dan Kredit KPR</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/smf.png" class="card-img-top" alt="..." >
+                    <img src="/img/smf.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2017</h5>
                             <p class="card-text">Implementasi Aplikasi System Administrasi Syariah</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/mnc-bank.png" class="card-img-top" alt="..." >
+                    <img src="/img/mnc-bank.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2016</h5>
                             <p class="card-text">Manage Service Aplikasi Joint Financing Mirroring System dan KPR</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-dki.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-dki.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2015</h5>
                             <p class="card-text">Implementasi Aplikasi Loan Origination Kredit Multi Guna (KMG) dan Kredit Mikro</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/mnc-bank.png" class="card-img-top" alt="..." >
+                    <img src="/img/mnc-bank.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2014</h5>
                             <p class="card-text">Implementasi Aplikasi Joint Financing Mirroring System dan KPR</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-riaukepri.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-riaukepri.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2014</h5>
                             <p class="card-text">Implementasi Aplikasi Loan Origination System Konsumer Loan</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-hik-parahyangan.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-hik-parahyangan.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2013</h5>
                             <p class="card-text">Implementasi Aplikasi Corebanking Syariah</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-dki.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-dki.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2013</h5>
                             <p class="card-text">Upgrade Aplikasi Loan Origination</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-hik-parahyangan.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-hik-parahyangan.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2012</h5>
                             <p class="card-text">Implementasi Aplikasi Loan Origination Syariah</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-hik-parahyangan.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-hik-syariah.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2011</h5>
                             <p class="card-text">Implementasi Aplikasi Loan Origination Micro Finance Syariah</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-kalsel.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-kalsel.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2012</h5>
                             <p class="card-text">Implementasi Aplikasi Internal Credit Risk Rating (ICRR)</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-dki.png" class="card-img-top" alt="..." > <!--askrindo -->
+                    <img src="/img/bank-dki.svg" class="card-img-top" alt="..." > <!--askrindo -->
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2011</h5>
                             <p class="card-text">Sentralisasi database dan penyempurnaan Aplikasi Core Asuransi</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-kalsel.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-kalsel.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2008</h5>
                             <p class="card-text">Implementasi Aplikasi Loan Origination, Collateral & Insurance, Collection, Loan Admin</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-dki.png" class="card-img-top" alt="..." > <!--dharmatama -->
+                    <img src="/img/bank-dki.svg" class="card-img-top" alt="..." > <!--dharmatama -->
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2002</h5>
                             <p class="card-text">Implementasi Aplikasi Multi Finance System</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-btpn.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-btpn.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">2003</h5>
                             <p class="card-text">Pengadaan Sewa Pesonal Computer IBM</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-eksekutif-internasional.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-eksekutif-internasional.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;"></h5>
                             <p class="card-text">Implementasi Aplikasi Corebanking</p>
                         </div>
                 </div>
                 <div class="card" style="width: 18rem;">
-                    <img src="/img/bank-bumiputera.png" class="card-img-top" alt="..." >
+                    <img src="/img/bank-bumiputera.svg" class="card-img-top" alt="..." >
                         <div class="card-body">
                             <h5 class="card-title fw-bold" style="color: #0231D0;">200</h5>
                             <p class="card-text">Implementasi Aplikasi Pinjaman Konsumer</p>

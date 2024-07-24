@@ -97,20 +97,20 @@
     <section class="customer">
         <h3 class="text-center fw-bold" style="margin-top: 40px;"> Pelanggan </h3>
         <div class="customer-card">
-            <div class="card"><img src="/img/bank-riaukepri.png" alt="Bank Riau Kepri"></div>
-            <div class="card"><img src="/img/bank-btpn.png" alt="Bank BTPN"></div>
-            <div class="card"><img src="/img/mnc-bank.png" alt="MNC Bank"></div>
-            <div class="card"><img src="/img/bws.png" alt="Bank Woori Saudara"></div>
-            <div class="card"><img src="/img/bank-hik-parahyangan.png" alt="BPR Syariah HIK Parahyangan"></div>
-            <div class="card"><img src="/img/bank-syariah-hik.png" alt="BPR Syariah HIK"></div>
-            <div class="card"><img src="/img/bank-kalsel.png" alt="Bank Kalsel"></div>
-            <div class="card"><img src="/img/bank-dki.png" alt="Bank DKI"></div>
-            <div class="card"><img src="/img/bank-bumiputera.png" alt="Bank Bumiputera"></div>
-            <div class="card"><img src="/img/bank-bumiputera.png" alt="Bank Bumiputera"></div>
+            <div class="card"><img src="/img/bank-riaukepri.svg" alt="Bank Riau Kepri"></div>
+            <div class="card"><img src="/img/bank-btpn.svg" alt="Bank BTPN"></div>
+            <div class="card"><img src="/img/mnc-bank.svg" alt="MNC Bank"></div>
+            <div class="card"><img src="/img/bws.svg" alt="Bank Woori Saudara"></div>
+            <div class="card"><img src="/img/bank-hik-parahyangan.svg" alt="BPR Syariah HIK Parahyangan"></div>
+            <div class="card"><img src="/img/bank-hik-syariah.svg" alt="BPR Syariah HIK"></div>
+            <div class="card"><img src="/img/bank-kalsel.svg" alt="Bank Kalsel"></div>
+            <div class="card"><img src="/img/bank-dki.svg" alt="Bank DKI"></div>
+            <div class="card"><img src="/img/bank-bumiputera.svg" alt="Bank Bumiputera"></div>
+            <div class="card"><img src="/img/bank-bumiputera.svg" alt="Bank Bumiputera"></div>
             <!-- <div class="card"><img src="/img/askrindo.png" alt="Bank Riau Kepri"></div> -->
-            <div class="card"><img src="/img/smf.png" alt="Bank BTPN"></div>
-            <div class="card"><img src="/img/bank-eksekutif-internasional.png" alt="MNC Bank"></div>
-            <div class="card"><img src="/img/bank-lampung.png" alt="Bank Woori Saudara"></div>
+            <div class="card"><img src="/img/smf.svg" alt="Bank BTPN"></div>
+            <div class="card"><img src="/img/bank-eksekutif-internasional.svg" alt="MNC Bank"></div>
+            <div class="card"><img src="/img/bank-lampung.svg" alt="Bank Woori Saudara"></div>
         </div>
     </section>
     <!-- Akhir Section Kustomer -->

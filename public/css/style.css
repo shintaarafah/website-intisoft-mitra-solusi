@@ -119,12 +119,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10px; /* Tambahkan padding jika diperlukan */
+    padding: 5px; /* Tambahkan padding jika diperlukan */
 }
 
 .customer-card img {
-    width: 80%;
-    max-height: 100%; /* Atur tinggi maksimal gambar agar tidak meluap dari kartu */
+    width: 100%; /* Ensure the image width fits the card */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
 }
 
 /* Awal Profil */
@@ -325,6 +326,8 @@
 .atm-configuration{
     background-color: #E9F6EF;
 }
+
+
 /* Produk */
 .container-produk .pc-tittle p{
     font-size: 28px;
@@ -377,6 +380,8 @@
     width: 170px;
     border-radius: 5px;
     color: white;
+    margin-bottom: 25px;
+    padding: 5px;
     text-align: center;
     align-items: center;
     padding: 5px;
