@@ -266,6 +266,12 @@ body{
     overflow: hidden;
     margin-top: -15px;
 }
+<<<<<<< HEAD
+=======
+
+/* Produk List */
+
+>>>>>>> 1829505bf6455922e819c56576f12b2ca9f92e5b
 .carousel-content {
     margin: 40px;
     display: flex;
@@ -333,9 +339,14 @@ body{
 .atm-configuration{
     background-color: #E9F6EF;
 }
+<<<<<<< HEAD
 /* Akhir Pengalaman Produk */
 
 
+=======
+
+
+>>>>>>> 1829505bf6455922e819c56576f12b2ca9f92e5b
 /* Produk */
 .produk-card {
     display: flex;
@@ -375,6 +386,11 @@ body{
     width: 200px;
     border-radius: 5px;
     color: white;
+<<<<<<< HEAD
+=======
+    margin-bottom: 25px;
+    padding: 5px;
+>>>>>>> 1829505bf6455922e819c56576f12b2ca9f92e5b
     text-align: center;
     align-items: center;
     padding: 7px;
@@ -395,6 +411,7 @@ body{
     position: relative;
 }
 
+<<<<<<< HEAD
 /* Awal Footer */
 footer {
     background-color: #ffffff; /* Warna latar belakang putih */
@@ -629,3 +646,18 @@ footer .contact-icons img {
         text-align: center;
     }
 }
+=======
+
+/* Footer */
+.footer {
+    background-color: #0231D0;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    color: #fff;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+
+>>>>>>> 1829505bf6455922e819c56576f12b2ca9f92e5b
