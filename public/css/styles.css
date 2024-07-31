@@ -388,8 +388,8 @@ body{
     max-width: 100%;
     height: auto;
     display: block;
-    padding: 30px;
-    margin-top: -50px;
+    padding: 70px;
+    margin-top: -70px;
 }
 .container-bn {
     width: 100%;
@@ -625,7 +625,7 @@ footer .contact-icons img {
     .produk-card .card img {
         height: auto; /* Menjaga rasio gambar pada tablet */
         max-height: 200px; /* Membatasi tinggi gambar */
-        width: 100%;
+        width: 90%;
         padding: 15px; /* Mengurangi padding pada tablet */
     }
     .produk-card .card p {

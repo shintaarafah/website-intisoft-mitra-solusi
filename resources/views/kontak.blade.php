@@ -104,7 +104,6 @@
             referrerpolicy="no-referrer-when-downgrade"
         ></iframe>
     </div>
-<<<<<<< HEAD
 </div>
 
 
@@ -136,13 +135,4 @@
 
 </body>
 </html>
-=======
-</body>
 
-<footer>
-    <div class="footer" style="margin-top: 200px">
-        <p> Copyright © 2024 by Intisoft Mitra Solusi</p>
-    </div>
-</footer>
-</html>
->>>>>>> 1829505bf6455922e819c56576f12b2ca9f92e5b

@@ -110,7 +110,6 @@
                 </div>
             </div>
         </div>
-<<<<<<< HEAD
     </div>
     <div class="bottom-footer text-center py-2">
         <p style="color: #FFFFFF;">Copyright © 2024 by Intisoft Mitra Solusi</p>
@@ -118,56 +117,5 @@
 </footer>
 <!-- Akhir Footer -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-=======
-    </section>
-
-    <section class="container-bn">
-        <div class="bn-produk">
-            <img src="/img/bn-eform.png" alt="banner-eform">
-        </div>
-        <div class="bn-produk">
-            <img src="/img/bn-elos.png" alt="banner-eform" style="padding: 5px">
-        </div>
-    </section>
-    <!-- Akhir Section Produk -->
-
-    {{--  Footer--}}
-    {{-- <footer>
-
-
-        <div class="footer">
-            <p> Copyright © 2024 by Intisoft Mitra Solusi</p>
-        </div>
-    </footer> --}}
-
-
-    <footer class="container">
-        <div class="container">
-            <div class="row justify-content-center border-bottom ">
-                <div class="col-lg-4 text-start col-sm-12 col-md-4 mb-3">
-                    <img src="/img/logo-intisoft.png" alt="Logo" width="110" height="60">
-                    <p>Menara Rajawali Level 7-1 Kawasan Mega Kuningan Timur, Kecamatan Setiabudi Jakarta Selatan 12950</p>
-                </div>
-
-                <div class="col-lg-4 text-center col-sm-12 col-md-3 mb-2">
-                    <h4>Kontak</h4>
-                    <a href="https://www.facebook.com/akun_facebook" target="_blank" class="social-link" style="text-decoration: none;">
-                        <img src="/img/whatsapp.png" alt="" class="width: 50px; height: 20px;" >
-                    </a>
-                    <a href="https://www.twitter.com/akun_twitter" target="_blank" class="social-link" style="text-decoration: none;">
-                        <img src="/img/telpon.png" alt="">
-                    </a>
-                    <a href="https://www.instagram.com/akun_instagram" target="_blank" class="social-link" style="text-decoration: none;">
-                        <img src="/img/email.png" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="footer">
-                <p> Copyright © 2024 by Intisoft Mitra Solusi</p>
-            </div>
-        </div>
-    </footer>
-
->>>>>>> 1829505bf6455922e819c56576f12b2ca9f92e5b
 </body>
 </html>
