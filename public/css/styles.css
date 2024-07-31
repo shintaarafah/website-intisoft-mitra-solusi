@@ -1,16 +1,15 @@
-body{
-    font-family: 'Poppins', sans-serif;
-    padding-top: 70px; /* Atur sesuai dengan tinggi navbar Anda */
-    margin: 0;
-}
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 70px; /* Atur sesuai dengan tinggi navbar Anda */
+    margin: 0;
+}
 
-/* Header */
-/* navbar */
+/* Navbar */
 .navbar{
     background-color: #fff;
     padding: 0.5rem 2rem;
@@ -31,8 +30,13 @@ body{
     color: #fff;
     border-radius: 15px;
 }
+.dropdown-menu.show .dropdown-item:hover {
+    background-color: #0231D0;
+    color: #fff;
+    border-radius: 10px;
+}
 
-/* Home*/
+/* Beranda */
 /* Section Banner */
 .banner-home{
     display: flex;
@@ -56,6 +60,11 @@ body{
     padding: 60px;
     text-align: start;
     margin-top: 100px;
+}
+.banner-home .banner-text p{
+    color: #2C9760; 
+    font-size: 14px; 
+    font-weight: 500;
 }
 
 /* Section Company */
@@ -150,8 +159,6 @@ body{
     height: auto; /* Maintain aspect ratio */
     display: block;
 }
-/* Akhir Home */
-
 
 /* Awal Profil */
 .profil-banner .banner-card img{
@@ -202,7 +209,6 @@ body{
     text-align: justify;
 }
 /* Akhir Profil */
-
 
 /* Awal Kontak */
 .container-kontak {
@@ -255,7 +261,6 @@ body{
     margin-left: 10%;
 }
 /* Akhir Kontak */
-
 
 /* Awal Pengalaman Projek */
 /* Section Card Pengalaman Proyek */
@@ -314,8 +319,8 @@ body{
     position: relative;
 }
 .atm-content img{
-    width: 100%;
-    height: 100%;
+    width: 90%;
+    height: 90%;
     padding: 40px;
     max-width: 200%;
 }
@@ -334,7 +339,6 @@ body{
     background-color: #E9F6EF;
 }
 /* Akhir Pengalaman Produk */
-
 
 /* Produk */
 .produk-card {
@@ -395,42 +399,35 @@ body{
     position: relative;
 }
 
-/* Awal Footer */
+/* Footer */
 footer {
     background-color: #ffffff; /* Warna latar belakang putih */
 }
-
 footer .container {
     padding: 10px 0;
     text-align: center; /* Pusatkan konten dalam footer */
 }
-
 footer img {
     max-width: 150px; /* Sesuaikan dengan ukuran logo */
     height: auto; /* Menjaga rasio gambar */
 }
-
 footer p {
     margin: 0;
     color: #000000; /* Warna teks hitam */
 }
-
 footer .contact-icons {
     display: flex;
     justify-content: center; /* Pusatkan ikon dalam baris */
     flex-wrap: wrap; /* Membungkus ikon jika diperlukan */
     padding: 10px 0;
 }
-
 footer .contact-icons a {
     margin: 2px; /* Jarak antara ikon */
 }
-
 footer .contact-icons img {
     width: 40px; /* Sesuaikan dengan ukuran ikon */
     height: 40px; /* Sesuaikan dengan ukuran ikon */
 }
-
 /* Bottom Footer */
 .bottom-footer {
     background-color: #0231D0; /* Warna biru sesuai permintaan */
@@ -439,87 +436,121 @@ footer .contact-icons img {
     text-align: center; /* Pusatkan teks jika ada */
 }
 
-/* Akhir Footer */
+/* footer */
 
 
-
-/* Website Responsive */
-
+/* Akhir Beranda */
 @media (max-width: 768px) {
+    /* Header  */
+    .navbar {
+        padding: 0.5rem 1rem; 
+    }
+    .nav-item {
+        margin-left: 0; 
+        display: block; 
+        text-align: center; 
+    }
+    .nav-link {
+        display: block; /* Tampilkan link dalam format blok untuk perangkat mobile */
+        padding: 0.5rem; /* Tambahkan padding untuk link di perangkat mobile */
+        border-radius: 10px; /* Radius border agar sesuai dengan gaya */
+    }
+
+    /* Dropdown Menu */
+    .dropdown-menu {
+        background-color: #fff; /* Warna latar belakang default dropdown */
+        border-radius: 10px; /* Sesuaikan dengan radius border */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        padding: 0;
+        margin: 0;
+        position: static; /* Posisi dropdown menu untuk perangkat mobile */
+        width: 100%; /* Lebar dropdown menu sama dengan lebar kontainer */
+    }
+
+    .dropdown-item {
+        color: black; /* Warna teks default item dropdown */
+        padding: 0.5rem 1rem; /* Padding item dropdown */
+    }
+
+    .dropdown-item:hover {
+        background-color: #0231D0; /* Warna latar belakang saat dihover */
+        color: #fff; /* Warna teks saat dihover */
+    }
     /* Home */
     /* Section Banner */
     .banner-home {
         flex-direction: column; /* Stack items vertically on smaller screens */
     }
     .banner-home .banner-content {
-        text-align: center;
+        align-items: center;
     }
     .banner-home .banner-text {
-        padding: 10px;
-        margin-top: 20px;
-        width: auto; /* Adjust width for better centering */
+        padding: 20px 20px 20px 20px;
+        margin-top: 30px; /* Adjust margin-top for smaller tablets */
         text-align: start;
         align-items: center;
         position: absolute;
-        top: 0;
     }
-    .banner-text .h1{
-        font-size: 1.75rem;
+    .banner-home .banner-text h1{
+        font-size: 17px;
     }
-
-    /* Section Company */
+    .banner-home .banner-text p{
+        font-size: 0.7rem; /* Mengurangi ukuran font untuk teks yang lebih kecil, Anda bisa menyesuaikan sesuai kebutuhan */
+        max-width: 80%; 
+        word-wrap: break-word; 
+        overflow: hidden; /* Sembunyikan teks yang meluas */
+        text-align: start;
+        line-height: 1.6; /* Menambah jarak antar baris */
+        padding: 0 1rem 2rem; /* Tambahkan padding untuk memberi ruang di sisi, gunakan unit rem untuk konsistensi */
+        margin-right: -2rem; /* Mengatur margin di sisi kanan */
+        margin-left: -1rem; /* Mengatur margin di sisi kiri */
+    }
     .company{
-        margin-top: -15rem;
+        padding-top: -20rem;
+        margin-top: -44rem;
     }
     .company-title {
-        width: 70%; /* Adjust title width for small screens */
+        width: 90%; /* Adjust width for smaller tablets */
+        font-size: 1.1em; /* Adjust font size for smaller tablets */
     }
     .company-content p {
-        padding: 10px 0px; /* Adjust paragraph padding for small screens */
+        padding: 10px 5px; /* Adjust padding for smaller tablets */
+        width: 100%;
     }
-
-    /* Section Job */
     .job-content {
-        padding: 50px;
+        padding: 20px; /* Adjust padding for smaller tablets */
     }
-    .job-card .card {
-        width: 150px;
-        padding: 8px;
-    }
-    .job-card {
-        justify-content: center;
-    }
-
-    /* Section Customer */
     .customer-card {
-        grid-template-columns: repeat(3, 1fr); /* 3 kolom pada layar tablet */
+        grid-template-columns: repeat(3, 1fr); /* Show 3 cards per row on smaller tablets */
     }
 
     /* Profil */
     .profil-banner .banner-card img {
-        height: 250px; /* Menyesuaikan tinggi gambar untuk tablet */
+        height: 355px; /* Menyesuaikan tinggi gambar untuk tablet */
+        width: 100%;
     }
     .profil-banner .banner-text {
-        top: 25%; /* Sesuaikan posisi teks */
-        padding: 20px 15% 20px 15%;
-        font-size: 15px;
+        top: 14%; /* Sesuaikan posisi teks */
+        padding: -50px;
+        font-size: 10px;
     }
     .visi-misi {
-        padding: 15px;
+        margin-top: 40px;
+        padding: 5px;
     }
     .visi-misi p {
-        padding-left: 15%;
-        padding-right: 15%;
+        padding-left: 3%;
+        padding-right: 3%;
     }
     .visi-misi ol {
-        padding-left: 10%;
-        padding-right: 10%;
+        padding-left: 3%;
+        padding-right: 3%;
     }
     .visi-misi hr {
         width: 20%;
     }
 
-    /* Kontak */
+/* Kontak */
     .container-kontak {
         margin-left: 4%;
     }
@@ -542,7 +573,7 @@ footer .contact-icons img {
     }
     .maps-container iframe {
         height: 300px; /* Mengurangi tinggi iframe pada tablet */
-        width: 100%;
+        width: 80%;
         justify-content: center;
         align-items: center;
         text-align: center;
@@ -568,6 +599,7 @@ footer .contact-icons img {
     .atm-content img {
         max-width: 100%; /* Mengatur gambar agar pas di dalam kontainer */
         padding: 20px; /* Mengurangi padding pada tablet */
+        height: 250px;
     }
     .atm-content .atm-text {
         max-width: 100%; /* Teks mengambil lebar penuh pada tablet */
@@ -577,7 +609,6 @@ footer .contact-icons img {
     .atm-content .atm-text h5 {
         padding: 10px 0; /* Mengurangi padding atas dan bawah pada tablet */
     }
-
 
     /* Produk */
     .container-produk .pc-tittle p {
@@ -628,4 +659,5 @@ footer .contact-icons img {
         color: #000000; /* Warna teks hitam */
         text-align: center;
     }
+    
 }
